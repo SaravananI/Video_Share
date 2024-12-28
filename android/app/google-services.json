@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782715887420",
+    "project_id": "vidshare-185e9",
+    "storage_bucket": "vidshare-185e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782715887420:android:5c4bbc3a85398d04244839",
+        "android_client_info": {
+          "package_name": "com.chat_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtQdh-VS96q2mO6Bo6rVrEt5YJ1XuNy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782715887420:android:4f3736bc26250cf3244839",
+        "android_client_info": {
+          "package_name": "com.media.vidshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtQdh-VS96q2mO6Bo6rVrEt5YJ1XuNy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
